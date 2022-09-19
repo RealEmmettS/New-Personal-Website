@@ -1,0 +1,58 @@
+@media (min-width: 300px) {
+  .cSpacing {
+    width: 100%;
+    text-align: left;
+  }
+}
+
+@media (min-width: 768px) {
+  .cSpacing {
+    width: 80%;
+    text-align: center;
+  }
+}
+
+@media (min-width: 300px) {
+  div.line {
+    height: 1px;
+    background: black;
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 100%;
+  }
+}
+
+@media (min-width: 768px) {
+  div.line {
+    height: 1px;
+    background: black;
+    background-color: black;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    width: 80%;
+  }
+}
+
+@media (min-width: 300px) {
+  .m-mb {
+    margin-bottom: 50px;
+  }
+}
+
+@media (min-width: 768px) {
+  .m-mb {
+    margin-bottom: 0px;
+  }
+}
+
+.shau-footer {
+  width: 100vw;
+  height: fit-content;
+  min-height: 30vh;
+  background-color: white;
+  color: black;
+  position: absolute;
+  padding: 50px;
+}
+
