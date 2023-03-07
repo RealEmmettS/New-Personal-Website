@@ -1,0 +1,208 @@
+@font-face {
+    font-family: 'EMOTIQ Outline';
+    src: url('EMOTIQOutline.eot');
+    src: url('EMOTIQOutline.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQOutline.woff2') format('woff2'),
+        url('EMOTIQOutline.woff') format('woff'),
+        url('EMOTIQOutline.ttf') format('truetype'),
+        url('EMOTIQOutline.svg#EMOTIQOutline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ';
+    src: url('EMOTIQBold.eot');
+    src: url('EMOTIQBold.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQBold.woff2') format('woff2'),
+        url('EMOTIQBold.woff') format('woff'),
+        url('EMOTIQBold.ttf') format('truetype'),
+        url('EMOTIQBold.svg#EMOTIQBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Outline';
+    src: url('EMOTIQOutlineBold.eot');
+    src: url('EMOTIQOutlineBold.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQOutlineBold.woff2') format('woff2'),
+        url('EMOTIQOutlineBold.woff') format('woff'),
+        url('EMOTIQOutlineBold.ttf') format('truetype'),
+        url('EMOTIQOutlineBold.svg#EMOTIQOutlineBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Outline Slant';
+    src: url('EMOTIQOutlineSlant.eot');
+    src: url('EMOTIQOutlineSlant.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQOutlineSlant.woff2') format('woff2'),
+        url('EMOTIQOutlineSlant.woff') format('woff'),
+        url('EMOTIQOutlineSlant.ttf') format('truetype'),
+        url('EMOTIQOutlineSlant.svg#EMOTIQOutlineSlant') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Stencil';
+    src: url('EMOTIQStencil.eot');
+    src: url('EMOTIQStencil.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQStencil.woff2') format('woff2'),
+        url('EMOTIQStencil.woff') format('woff'),
+        url('EMOTIQStencil.ttf') format('truetype'),
+        url('EMOTIQStencil.svg#EMOTIQStencil') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Outline Slant';
+    src: url('EMOTIQOutlineSlantBold.eot');
+    src: url('EMOTIQOutlineSlantBold.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQOutlineSlantBold.woff2') format('woff2'),
+        url('EMOTIQOutlineSlantBold.woff') format('woff'),
+        url('EMOTIQOutlineSlantBold.ttf') format('truetype'),
+        url('EMOTIQOutlineSlantBold.svg#EMOTIQOutlineSlantBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Slant';
+    src: url('EMOTIQSlantBold.eot');
+    src: url('EMOTIQSlantBold.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQSlantBold.woff2') format('woff2'),
+        url('EMOTIQSlantBold.woff') format('woff'),
+        url('EMOTIQSlantBold.ttf') format('truetype'),
+        url('EMOTIQSlantBold.svg#EMOTIQSlantBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ';
+    src: url('EMOTIQ.eot');
+    src: url('EMOTIQ.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQ.woff2') format('woff2'),
+        url('EMOTIQ.woff') format('woff'),
+        url('EMOTIQ.ttf') format('truetype'),
+        url('EMOTIQ.svg#EMOTIQ') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Slant';
+    src: url('EMOTIQSlant.eot');
+    src: url('EMOTIQSlant.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQSlant.woff2') format('woff2'),
+        url('EMOTIQSlant.woff') format('woff'),
+        url('EMOTIQSlant.ttf') format('truetype'),
+        url('EMOTIQSlant.svg#EMOTIQSlant') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Stencil Outline';
+    src: url('EMOTIQStencilOutline.eot');
+    src: url('EMOTIQStencilOutline.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQStencilOutline.woff2') format('woff2'),
+        url('EMOTIQStencilOutline.woff') format('woff'),
+        url('EMOTIQStencilOutline.ttf') format('truetype'),
+        url('EMOTIQStencilOutline.svg#EMOTIQStencilOutline') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Stencil Slant';
+    src: url('EMOTIQStencilSlantBold.eot');
+    src: url('EMOTIQStencilSlantBold.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQStencilSlantBold.woff2') format('woff2'),
+        url('EMOTIQStencilSlantBold.woff') format('woff'),
+        url('EMOTIQStencilSlantBold.ttf') format('truetype'),
+        url('EMOTIQStencilSlantBold.svg#EMOTIQStencilSlantBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Stencil Outline Slant';
+    src: url('EMOTIQStencilOutlineSlantBold.eot');
+    src: url('EMOTIQStencilOutlineSlantBold.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQStencilOutlineSlantBold.woff2') format('woff2'),
+        url('EMOTIQStencilOutlineSlantBold.woff') format('woff'),
+        url('EMOTIQStencilOutlineSlantBold.ttf') format('truetype'),
+        url('EMOTIQStencilOutlineSlantBold.svg#EMOTIQStencilOutlineSlantBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Stencil';
+    src: url('EMOTIQStencilBold.eot');
+    src: url('EMOTIQStencilBold.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQStencilBold.woff2') format('woff2'),
+        url('EMOTIQStencilBold.woff') format('woff'),
+        url('EMOTIQStencilBold.ttf') format('truetype'),
+        url('EMOTIQStencilBold.svg#EMOTIQStencilBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Stencil Slant';
+    src: url('EMOTIQStencilSlant.eot');
+    src: url('EMOTIQStencilSlant.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQStencilSlant.woff2') format('woff2'),
+        url('EMOTIQStencilSlant.woff') format('woff'),
+        url('EMOTIQStencilSlant.ttf') format('truetype'),
+        url('EMOTIQStencilSlant.svg#EMOTIQStencilSlant') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Stencil Outline';
+    src: url('EMOTIQStencilOutlineBold.eot');
+    src: url('EMOTIQStencilOutlineBold.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQStencilOutlineBold.woff2') format('woff2'),
+        url('EMOTIQStencilOutlineBold.woff') format('woff'),
+        url('EMOTIQStencilOutlineBold.ttf') format('truetype'),
+        url('EMOTIQStencilOutlineBold.svg#EMOTIQStencilOutlineBold') format('svg');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'EMOTIQ Stencil Outline Slant';
+    src: url('EMOTIQStencilOutlineSlant.eot');
+    src: url('EMOTIQStencilOutlineSlant.eot?#iefix') format('embedded-opentype'),
+        url('EMOTIQStencilOutlineSlant.woff2') format('woff2'),
+        url('EMOTIQStencilOutlineSlant.woff') format('woff'),
+        url('EMOTIQStencilOutlineSlant.ttf') format('truetype'),
+        url('EMOTIQStencilOutlineSlant.svg#EMOTIQStencilOutlineSlant') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
