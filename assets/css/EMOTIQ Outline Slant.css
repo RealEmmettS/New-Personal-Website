@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'EMOTIQ Outline Slant';
+	src: url(../../assets/fonts/EMOTIQOutlineSlant.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQOutlineSlant.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQOutlineSlant.woff2) format('woff2'),
+	url(../../assets/fonts/EMOTIQOutlineSlant.woff) format('woff'),
+	url(../../assets/fonts/EMOTIQOutlineSlant.ttf) format('truetype'),
+	url(../../assets/fonts/EMOTIQOutlineSlant.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'EMOTIQ Outline Slant';
+	src: url(../../assets/fonts/EMOTIQOutlineSlantBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQOutlineSlantBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQOutlineSlantBold.woff2) format('woff2'),
+	url(../../assets/fonts/EMOTIQOutlineSlantBold.woff) format('woff'),
+	url(../../assets/fonts/EMOTIQOutlineSlantBold.ttf) format('truetype'),
+	url(../../assets/fonts/EMOTIQOutlineSlantBold.svg) format('svg');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}

@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'EMOTIQ Stencil';
+	src: url(../../assets/fonts/EMOTIQStencil.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencil.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencil.woff2) format('woff2'),
+	url(../../assets/fonts/EMOTIQStencil.woff) format('woff'),
+	url(../../assets/fonts/EMOTIQStencil.ttf) format('truetype'),
+	url(../../assets/fonts/EMOTIQStencil.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'EMOTIQ Stencil';
+	src: url(../../assets/fonts/EMOTIQStencilBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilBold.woff2) format('woff2'),
+	url(../../assets/fonts/EMOTIQStencilBold.woff) format('woff'),
+	url(../../assets/fonts/EMOTIQStencilBold.ttf) format('truetype'),
+	url(../../assets/fonts/EMOTIQStencilBold.svg) format('svg');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}

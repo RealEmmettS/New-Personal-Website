@@ -1,0 +1,25 @@
+@font-face {
+	font-family: 'EMOTIQ Stencil Outline';
+	src: url(../../assets/fonts/EMOTIQStencilOutline.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilOutline.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilOutline.woff2) format('woff2'),
+	url(../../assets/fonts/EMOTIQStencilOutline.woff) format('woff'),
+	url(../../assets/fonts/EMOTIQStencilOutline.ttf) format('truetype'),
+	url(../../assets/fonts/EMOTIQStencilOutline.svg) format('svg');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'EMOTIQ Stencil Outline';
+	src: url(../../assets/fonts/EMOTIQStencilOutlineBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilOutlineBold.eot) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilOutlineBold.woff2) format('woff2'),
+	url(../../assets/fonts/EMOTIQStencilOutlineBold.woff) format('woff'),
+	url(../../assets/fonts/EMOTIQStencilOutlineBold.ttf) format('truetype'),
+	url(../../assets/fonts/EMOTIQStencilOutlineBold.svg) format('svg');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
