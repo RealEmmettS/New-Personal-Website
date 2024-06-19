@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'EMOTIQ Stencil Outline';
-	src: url(../../assets/fonts/EMOTIQStencilOutline.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencilOutline.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencilOutline.woff2) format('woff2'),
-	url(../../assets/fonts/EMOTIQStencilOutline.woff) format('woff'),
-	url(../../assets/fonts/EMOTIQStencilOutline.ttf) format('truetype'),
-	url(../../assets/fonts/EMOTIQStencilOutline.svg) format('svg');
+	src: url(../../assets/fonts/EMOTIQStencilOutline.eot?h=f7cb7ca57b9519444486590142c7d4be) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilOutline.eot?h=f7cb7ca57b9519444486590142c7d4be) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilOutline.woff2?h=f7cb7ca57b9519444486590142c7d4be) format('woff2'),
+	url(../../assets/fonts/EMOTIQStencilOutline.woff?h=f7cb7ca57b9519444486590142c7d4be) format('woff'),
+	url(../../assets/fonts/EMOTIQStencilOutline.ttf?h=f7cb7ca57b9519444486590142c7d4be) format('truetype'),
+	url(../../assets/fonts/EMOTIQStencilOutline.svg?h=f7cb7ca57b9519444486590142c7d4be) format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -13,12 +13,12 @@
 
 @font-face {
 	font-family: 'EMOTIQ Stencil Outline';
-	src: url(../../assets/fonts/EMOTIQStencilOutlineBold.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencilOutlineBold.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencilOutlineBold.woff2) format('woff2'),
-	url(../../assets/fonts/EMOTIQStencilOutlineBold.woff) format('woff'),
-	url(../../assets/fonts/EMOTIQStencilOutlineBold.ttf) format('truetype'),
-	url(../../assets/fonts/EMOTIQStencilOutlineBold.svg) format('svg');
+	src: url(../../assets/fonts/EMOTIQStencilOutlineBold.eot?h=f7cb7ca57b9519444486590142c7d4be) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilOutlineBold.eot?h=f7cb7ca57b9519444486590142c7d4be) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilOutlineBold.woff2?h=f7cb7ca57b9519444486590142c7d4be) format('woff2'),
+	url(../../assets/fonts/EMOTIQStencilOutlineBold.woff?h=f7cb7ca57b9519444486590142c7d4be) format('woff'),
+	url(../../assets/fonts/EMOTIQStencilOutlineBold.ttf?h=f7cb7ca57b9519444486590142c7d4be) format('truetype'),
+	url(../../assets/fonts/EMOTIQStencilOutlineBold.svg?h=f7cb7ca57b9519444486590142c7d4be) format('svg');
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap;

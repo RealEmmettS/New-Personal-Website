@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'EMOTIQ Outline';
-	src: url(../../assets/fonts/EMOTIQOutline.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQOutline.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQOutline.woff2) format('woff2'),
-	url(../../assets/fonts/EMOTIQOutline.woff) format('woff'),
-	url(../../assets/fonts/EMOTIQOutline.ttf) format('truetype'),
-	url(../../assets/fonts/EMOTIQOutline.svg) format('svg');
+	src: url(../../assets/fonts/EMOTIQOutline.eot?h=fe54b842023726ada19641d83ad8b422) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQOutline.eot?h=fe54b842023726ada19641d83ad8b422) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQOutline.woff2?h=fe54b842023726ada19641d83ad8b422) format('woff2'),
+	url(../../assets/fonts/EMOTIQOutline.woff?h=fe54b842023726ada19641d83ad8b422) format('woff'),
+	url(../../assets/fonts/EMOTIQOutline.ttf?h=fe54b842023726ada19641d83ad8b422) format('truetype'),
+	url(../../assets/fonts/EMOTIQOutline.svg?h=fe54b842023726ada19641d83ad8b422) format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -13,12 +13,12 @@
 
 @font-face {
 	font-family: 'EMOTIQ Outline';
-	src: url(../../assets/fonts/EMOTIQOutlineBold.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQOutlineBold.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQOutlineBold.woff2) format('woff2'),
-	url(../../assets/fonts/EMOTIQOutlineBold.woff) format('woff'),
-	url(../../assets/fonts/EMOTIQOutlineBold.ttf) format('truetype'),
-	url(../../assets/fonts/EMOTIQOutlineBold.svg) format('svg');
+	src: url(../../assets/fonts/EMOTIQOutlineBold.eot?h=fe54b842023726ada19641d83ad8b422) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQOutlineBold.eot?h=fe54b842023726ada19641d83ad8b422) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQOutlineBold.woff2?h=fe54b842023726ada19641d83ad8b422) format('woff2'),
+	url(../../assets/fonts/EMOTIQOutlineBold.woff?h=fe54b842023726ada19641d83ad8b422) format('woff'),
+	url(../../assets/fonts/EMOTIQOutlineBold.ttf?h=fe54b842023726ada19641d83ad8b422) format('truetype'),
+	url(../../assets/fonts/EMOTIQOutlineBold.svg?h=fe54b842023726ada19641d83ad8b422) format('svg');
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap;

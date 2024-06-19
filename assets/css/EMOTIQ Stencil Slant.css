@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'EMOTIQ Stencil Slant';
-	src: url(../../assets/fonts/EMOTIQStencilSlant.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencilSlant.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencilSlant.woff2) format('woff2'),
-	url(../../assets/fonts/EMOTIQStencilSlant.woff) format('woff'),
-	url(../../assets/fonts/EMOTIQStencilSlant.ttf) format('truetype'),
-	url(../../assets/fonts/EMOTIQStencilSlant.svg) format('svg');
+	src: url(../../assets/fonts/EMOTIQStencilSlant.eot?h=832254d62a244e5bcf01edd7c3ef58e7) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilSlant.eot?h=832254d62a244e5bcf01edd7c3ef58e7) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilSlant.woff2?h=832254d62a244e5bcf01edd7c3ef58e7) format('woff2'),
+	url(../../assets/fonts/EMOTIQStencilSlant.woff?h=832254d62a244e5bcf01edd7c3ef58e7) format('woff'),
+	url(../../assets/fonts/EMOTIQStencilSlant.ttf?h=832254d62a244e5bcf01edd7c3ef58e7) format('truetype'),
+	url(../../assets/fonts/EMOTIQStencilSlant.svg?h=832254d62a244e5bcf01edd7c3ef58e7) format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -13,12 +13,12 @@
 
 @font-face {
 	font-family: 'EMOTIQ Stencil Slant';
-	src: url(../../assets/fonts/EMOTIQStencilSlantBold.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencilSlantBold.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencilSlantBold.woff2) format('woff2'),
-	url(../../assets/fonts/EMOTIQStencilSlantBold.woff) format('woff'),
-	url(../../assets/fonts/EMOTIQStencilSlantBold.ttf) format('truetype'),
-	url(../../assets/fonts/EMOTIQStencilSlantBold.svg) format('svg');
+	src: url(../../assets/fonts/EMOTIQStencilSlantBold.eot?h=832254d62a244e5bcf01edd7c3ef58e7) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilSlantBold.eot?h=832254d62a244e5bcf01edd7c3ef58e7) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilSlantBold.woff2?h=832254d62a244e5bcf01edd7c3ef58e7) format('woff2'),
+	url(../../assets/fonts/EMOTIQStencilSlantBold.woff?h=832254d62a244e5bcf01edd7c3ef58e7) format('woff'),
+	url(../../assets/fonts/EMOTIQStencilSlantBold.ttf?h=832254d62a244e5bcf01edd7c3ef58e7) format('truetype'),
+	url(../../assets/fonts/EMOTIQStencilSlantBold.svg?h=832254d62a244e5bcf01edd7c3ef58e7) format('svg');
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap;

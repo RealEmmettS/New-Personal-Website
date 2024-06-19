@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'EMOTIQ';
-	src: url(../../assets/fonts/EMOTIQ.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQ.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQ.woff2) format('woff2'),
-	url(../../assets/fonts/EMOTIQ.woff) format('woff'),
-	url(../../assets/fonts/EMOTIQ.ttf) format('truetype'),
-	url(../../assets/fonts/EMOTIQ.svg) format('svg');
+	src: url(../../assets/fonts/EMOTIQ.eot?h=8121299cc73ab4e64a74a41fc01751d8) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQ.eot?h=8121299cc73ab4e64a74a41fc01751d8) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQ.woff2?h=8121299cc73ab4e64a74a41fc01751d8) format('woff2'),
+	url(../../assets/fonts/EMOTIQ.woff?h=8121299cc73ab4e64a74a41fc01751d8) format('woff'),
+	url(../../assets/fonts/EMOTIQ.ttf?h=8121299cc73ab4e64a74a41fc01751d8) format('truetype'),
+	url(../../assets/fonts/EMOTIQ.svg?h=8121299cc73ab4e64a74a41fc01751d8) format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -13,12 +13,12 @@
 
 @font-face {
 	font-family: 'EMOTIQ';
-	src: url(../../assets/fonts/EMOTIQBold.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQBold.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQBold.woff2) format('woff2'),
-	url(../../assets/fonts/EMOTIQBold.woff) format('woff'),
-	url(../../assets/fonts/EMOTIQBold.ttf) format('truetype'),
-	url(../../assets/fonts/EMOTIQBold.svg) format('svg');
+	src: url(../../assets/fonts/EMOTIQBold.eot?h=8121299cc73ab4e64a74a41fc01751d8) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQBold.eot?h=8121299cc73ab4e64a74a41fc01751d8) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQBold.woff2?h=8121299cc73ab4e64a74a41fc01751d8) format('woff2'),
+	url(../../assets/fonts/EMOTIQBold.woff?h=8121299cc73ab4e64a74a41fc01751d8) format('woff'),
+	url(../../assets/fonts/EMOTIQBold.ttf?h=8121299cc73ab4e64a74a41fc01751d8) format('truetype'),
+	url(../../assets/fonts/EMOTIQBold.svg?h=8121299cc73ab4e64a74a41fc01751d8) format('svg');
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap;

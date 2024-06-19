@@ -1,11 +1,11 @@
 @font-face {
 	font-family: 'EMOTIQ Stencil';
-	src: url(../../assets/fonts/EMOTIQStencil.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencil.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencil.woff2) format('woff2'),
-	url(../../assets/fonts/EMOTIQStencil.woff) format('woff'),
-	url(../../assets/fonts/EMOTIQStencil.ttf) format('truetype'),
-	url(../../assets/fonts/EMOTIQStencil.svg) format('svg');
+	src: url(../../assets/fonts/EMOTIQStencil.eot?h=f7cb7ca57b9519444486590142c7d4be) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencil.eot?h=f7cb7ca57b9519444486590142c7d4be) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencil.woff2?h=f7cb7ca57b9519444486590142c7d4be) format('woff2'),
+	url(../../assets/fonts/EMOTIQStencil.woff?h=f7cb7ca57b9519444486590142c7d4be) format('woff'),
+	url(../../assets/fonts/EMOTIQStencil.ttf?h=f7cb7ca57b9519444486590142c7d4be) format('truetype'),
+	url(../../assets/fonts/EMOTIQStencil.svg?h=f7cb7ca57b9519444486590142c7d4be) format('svg');
 	font-weight: normal;
 	font-style: normal;
 	font-display: swap;
@@ -13,12 +13,12 @@
 
 @font-face {
 	font-family: 'EMOTIQ Stencil';
-	src: url(../../assets/fonts/EMOTIQStencilBold.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencilBold.eot) format('embedded-opentype'),
-	url(../../assets/fonts/EMOTIQStencilBold.woff2) format('woff2'),
-	url(../../assets/fonts/EMOTIQStencilBold.woff) format('woff'),
-	url(../../assets/fonts/EMOTIQStencilBold.ttf) format('truetype'),
-	url(../../assets/fonts/EMOTIQStencilBold.svg) format('svg');
+	src: url(../../assets/fonts/EMOTIQStencilBold.eot?h=f7cb7ca57b9519444486590142c7d4be) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilBold.eot?h=f7cb7ca57b9519444486590142c7d4be) format('embedded-opentype'),
+	url(../../assets/fonts/EMOTIQStencilBold.woff2?h=f7cb7ca57b9519444486590142c7d4be) format('woff2'),
+	url(../../assets/fonts/EMOTIQStencilBold.woff?h=f7cb7ca57b9519444486590142c7d4be) format('woff'),
+	url(../../assets/fonts/EMOTIQStencilBold.ttf?h=f7cb7ca57b9519444486590142c7d4be) format('truetype'),
+	url(../../assets/fonts/EMOTIQStencilBold.svg?h=f7cb7ca57b9519444486590142c7d4be) format('svg');
 	font-weight: bold;
 	font-style: normal;
 	font-display: swap;
